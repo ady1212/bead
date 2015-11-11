@@ -136,3 +136,4 @@ A tesztfájlok:
     Az új tárgy felvétele oldal egy űrlap: ki kell tölteni adatokkal a mezőket: tárgy neve, kódja és időpontja.
     Itt a "Submit" gombra kattintva küldhetjük fel az adatokat a szerverre, ami helytelen kitöltés esetén jelzi a hibát, helyes kitöltés esetén pedig megjeleníti az új tárgyat a listaoldalon.
 
+https://ide.c9.io/ady1212/alkfejl
